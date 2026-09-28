@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to snncd accounts related local Prod APIs "
   contactDetails:
     name: "Jorch - PROD"
-    email: "{cipher}J2e941f320008a5d70e5d3df6f8c562533a867fad126ae8f70a34a28541dc04ad91c9b304c3e32a4689c7173c4801383e"
+    email: "{cipher}7c070685c7955b71a8511605788d500d53727b3d0cc1adf45040dc56c870c1ecc67105ddb68dfbfeaa20f0fb523ec8d3"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
