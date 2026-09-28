@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to snncd accounts related local Prod APIs "
+  message: "Welcome to snncd accounts related local Prodaction APIs "
   contactDetails:
     name: "Jorch - PROD"
     email: "{cipher}7c070685c7955b71a8511605788d500d53727b3d0cc1adf45040dc56c870c1ecc67105ddb68dfbfeaa20f0fb523ec8d3"
