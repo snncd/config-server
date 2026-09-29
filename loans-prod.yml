@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to snncd loans related local Prod APIs "
+  message: "Welcome to snncd loans related local Prod APIs --> config monitor and claud bus"
   contactDetails:
     name: "Jorch - PROD"
     email: "Jorch@snncd.com"
