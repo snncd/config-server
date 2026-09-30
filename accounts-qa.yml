@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to snncd accounts related local QA APIs "
+  message: "Welcome to snncd accounts related local QA test docker hooks APIs "
   contactDetails:
     name: "Kenedy - QA"
     email: "{cipher}436e0a1b929e2b0f6dce31001c54fc9a15d4056a872b0345ee4675f46705f7b08a40405c5bc0107e1da8c43182b301ca"
